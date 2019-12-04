@@ -1,0 +1,60 @@
+
+
+body { 
+	background-image: url(../../images/fondo.jpg) ; 
+	background-position: left top; 
+	background-size: auto; 
+	background-repeat: repeat; 
+	background-attachment: fixed; 
+}
+
+
+.nombredelblog{
+	background-image: url(../../images/banner.jpg);
+	background-size: 100%;
+	background-color: rgb(255,255,255,0.5); 
+}
+
+#nombreblog{
+	background-color: rgb(0,0,0,0.65);
+	color: white;
+	text-align: right;
+}
+
+.contenidobody {
+	background-color: rgb(84,60,51,0.75);
+}
+
+
+.menu{
+	padding-bottom: 40px;
+}
+
+.menu li a{
+	text-align: left;
+}
+
+legend{
+	color: black;
+}
+
+
+.contenido{
+	background-color: rgb(255,255,255,0.9);
+	
+}
+
+p{
+	text-align: justify;
+	padding-top: 1px;
+}
+p,ol{
+	text-align: justify;
+	padding-top: 1px;
+}
+
+footer{
+  background-color: rgb(0,0,0,1);
+  color: white;
+  text-align: center;
+}
